@@ -1,0 +1,2 @@
+# MtDNA assemblies of 13 parental strains of the mutation accumulation experiment
+### Each strain has a genome (.fasta) and annotation (.gff) file in this directory.
