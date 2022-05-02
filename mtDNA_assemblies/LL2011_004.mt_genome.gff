@@ -1,0 +1,60 @@
+##gff-version 3
+##sequence-region 1 73893
+LL2011_004.mt_genome	mfannot	gene	1	780	.	+	0	ID=ATP6;Name=ATP6;transl_table=3;gene=ATP6
+LL2011_004.mt_genome	mfannot	tRNA	5864	5935	.	+	.	ID=tE(UUC)Q;Name=tE(UUC)Q;transl_table=3;gene=tE(UUC)Q
+LL2011_004.mt_genome	mfannot	gene	7181	9734	.	+	0	ID=COB;Name=COB;transl_table=3;gene=COB
+LL2011_004.mt_genome	mfannot	exon	7181	7686	.	+	0	ID=cob-E1;Name=cob-E1;transl_table=3;gene=cob-E1
+LL2011_004.mt_genome	mfannot	intron	7687	9082	.	+	0	ID=cob-I3;Name=cob-I3;transl_table=3;gene=cob-I3
+LL2011_004.mt_genome	mfannot	orf	7688	8770	.	+	0	ID=cob-I3 ORF;Name=cob-I3 ORF;transl_table=3;gene=cob-I3 ORF
+LL2011_004.mt_genome	mfannot	exon	9083	9734	.	+	0	ID=cob-E2;Name=cob-E2;transl_table=3;gene=cob-E2
+LL2011_004.mt_genome	mfannot	gene	12388	12627	.	+	0	ID=VAR1;Name=VAR1;transl_table=3;gene=VAR1
+LL2011_004.mt_genome	mfannot	tRNA	13590	13676	.	+	.	ID=tS(UGA)Q;Name=tS(UGA)Q;transl_table=3;gene=tS(UGA)Q
+LL2011_004.mt_genome	mfannot	gene	14420	15610	.	+	0	ID=RPS3;Name=RPS3;transl_table=3;gene=RPS3
+LL2011_004.mt_genome	blastn	rna	22246	25872	.	+	.	ID=21S rRNA;Name=21S rRNA;transl_table=3;gene=21S rRNA
+LL2011_004.mt_genome	blastn	rna_exon	22246	24927	.	+	.	ID=rnl-e1;Name=rnl-e1;transl_table=3;gene=rnl-e1
+LL2011_004.mt_genome	blastn	intron	24928	25322	.	+	.	ID=omega;Name=omega;transl_table=3;gene=omega
+LL2011_004.mt_genome	blastn	rna_exon	25323	25872	.	+	.	ID=rnl-e2;Name=rnl-e2;transl_table=3;gene=rnl-e2
+LL2011_004.mt_genome	mfannot	tRNA	27455	27527	.	+	.	ID=tT(UGU)Q;Name=tT(UGU)Q;transl_table=3;gene=tT(UGU)Q
+LL2011_004.mt_genome	mfannot	tRNA	28118	28190	.	+	.	ID=tC(GCA)Q;Name=tC(GCA)Q;transl_table=3;gene=tC(GCA)Q
+LL2011_004.mt_genome	mfannot	tRNA	28334	28405	.	+	.	ID=tH(GUG)Q;Name=tH(GUG)Q;transl_table=3;gene=tH(GUG)Q
+LL2011_004.mt_genome	mfannot	tRNA	29135	29216	.	+	.	ID=tL(UAA)Q;Name=tL(UAA)Q;transl_table=3;gene=tL(UAA)Q
+LL2011_004.mt_genome	mfannot	tRNA	29243	29315	.	+	.	ID=tQ(UUG)Q;Name=tQ(UUG)Q;transl_table=3;gene=tQ(UUG)Q
+LL2011_004.mt_genome	mfannot	tRNA	30160	30231	.	+	.	ID=tK(UUU)Q;Name=tK(UUU)Q;transl_table=3;gene=tK(UUU)Q
+LL2011_004.mt_genome	mfannot	tRNA	30384	30456	.	+	.	ID=tR(UCU)Q;Name=tR(UCU)Q;transl_table=3;gene=tR(UCU)Q
+LL2011_004.mt_genome	mfannot	tRNA	30619	30690	.	+	.	ID=tG(UCC)Q;Name=tG(UCC)Q;transl_table=3;gene=tG(UCC)Q
+LL2011_004.mt_genome	mfannot	tRNA	31646	31717	.	+	.	ID=tD(GUC)Q;Name=tD(GUC)Q;transl_table=3;gene=tD(GUC)Q
+LL2011_004.mt_genome	mfannot	tRNA	32741	32823	.	+	.	ID=tS(GCU)Q;Name=tS(GCU)Q;transl_table=3;gene=tS(GCU)Q
+LL2011_004.mt_genome	mfannot	tRNA	32827	32898	.	+	.	ID=tR(ACG)Q;Name=tR(ACG)Q;transl_table=3;gene=tR(ACG)Q
+LL2011_004.mt_genome	mfannot	tRNA	33511	33583	.	+	.	ID=tA(UGC)Q;Name=tA(UGC)Q;transl_table=3;gene=tA(UGC)Q
+LL2011_004.mt_genome	mfannot	tRNA	33892	33964	.	+	.	ID=tI(GAU)Q;Name=tI(GAU)Q;transl_table=3;gene=tI(GAU)Q
+LL2011_004.mt_genome	mfannot	tRNA	34505	34589	.	+	.	ID=tY(GUA)Q;Name=tY(GUA)Q;transl_table=3;gene=tY(GUA)Q
+LL2011_004.mt_genome	mfannot	tRNA	35175	35246	.	+	.	ID=tN(GUU)Q;Name=tN(GUU)Q;transl_table=3;gene=tN(GUU)Q
+LL2011_004.mt_genome	mfannot	tRNA	36749	36822	.	+	.	ID=tM(CAU)Q;Name=tM(CAU)Q;transl_table=3;gene=tM(CAU)Q
+LL2011_004.mt_genome	mfannot	gene	37823	38578	.	+	0	ID=COX2;Name=COX2;transl_table=3;gene=COX2
+LL2011_004.mt_genome	blastn	orf	38599	40016	.	+	.	ID=ORF1;Name=ORF1;transl_table=3;gene=ORF1
+LL2011_004.mt_genome	mfannot	tRNA	41468	41539	.	+	.	ID=tF(GAA)Q;Name=tF(GAA)Q;transl_table=3;gene=tF(GAA)Q
+LL2011_004.mt_genome	mfannot	tRNA	42028	42099	.	-	.	ID=tT(UUAG)Q;Name=tT(UUAG)Q;transl_table=3;gene=tT(UUAG)Q
+LL2011_004.mt_genome	mfannot	tRNA	42428	42500	.	+	.	ID=tV(UAC)Q;Name=tV(UAC)Q;transl_table=3;gene=tV(UAC)Q
+LL2011_004.mt_genome	mfannot	gene	43197	44006	.	+	0	ID=COX3;Name=COX3;transl_table=3;gene=COX3
+LL2011_004.mt_genome	mfannot	orf	43877	44854	.	+	0	ID=COX3 ORF;Name=COX3 ORF;transl_table=3;gene=COX3 ORF
+LL2011_004.mt_genome	mfannot	tRNA	49158	49230	.	+	.	ID=tM(CAU)Q;Name=tM(CAU)Q;transl_table=3;gene=tM(CAU)Q
+LL2011_004.mt_genome	mfannot	rna	49488	49854	.	+	0	ID=RPM1;Name=RPM1;transl_table=3;gene=RPM1
+LL2011_004.mt_genome	mfannot	tRNA	50683	50754	.	+	.	ID=tP(UGG)Q;Name=tP(UGG)Q;transl_table=3;gene=tP(UGG)Q
+LL2011_004.mt_genome	mfannot	rna	55846	57443	.	+	.	ID=15S rRNA;Name=15S rRNA;transl_table=3;gene=15S rRNA
+LL2011_004.mt_genome	mfannot	tRNA	58641	58711	.	+	.	ID=tW(UCA)Q;Name=tW(UCA)Q;transl_table=3;gene=tW(UCA)Q
+LL2011_004.mt_genome	mfannot	gene	62886	71457	.	+	0	ID=COX1;Name=COX1;transl_table=3;gene=COX1
+LL2011_004.mt_genome	mfannot	exon	62886	63054	.	+	0	ID=cox1-E1;Name=cox1-E1;transl_table=3;gene=cox1-E1
+LL2011_004.mt_genome	mfannot	intron	63055	65502	.	+	0	ID=cox1-I1;Name=cox1-I1;transl_table=3;gene=cox1-I1
+LL2011_004.mt_genome	mfannot	orf	63057	65390	.	+	0	ID=cox1-I1 ORF;Name=cox1-I1 ORF;transl_table=3;gene=cox1-I1 ORF
+LL2011_004.mt_genome	mfannot	exon	65503	65719	.	+	0	ID=cox1-E2;Name=cox1-E2;transl_table=3;gene=cox1-E2
+LL2011_004.mt_genome	mfannot	intron	65720	66393	.	+	0	ID=cox1-I3beta;Name=cox1-I3beta;transl_table=3;gene=cox1-I3beta
+LL2011_004.mt_genome	mfannot	exon	66394	66978	.	+	0	ID=cox1-E3;Name=cox1-E3;transl_table=3;gene=cox1-E3
+LL2011_004.mt_genome	mfannot	intron	66979	68310	.	+	0	ID=cox1-I5alpha;Name=cox1-I5alpha;transl_table=3;gene=cox1-I5alpha
+LL2011_004.mt_genome	mfannot	orf	66980	67873	.	+	0	ID=cox1-I5alpha ORF;Name=cox1-I5alpha ORF;transl_table=3;gene=cox1-I5alpha ORF
+LL2011_004.mt_genome	mfannot	exon	68311	68446	.	+	0	ID=cox1-E4;Name=cox1-E4;transl_table=3;gene=cox1-E4
+LL2011_004.mt_genome	mfannot	intron	68447	70058	.	+	0	ID=cox1-I5beta;Name=cox1-I5beta;transl_table=3;gene=cox1-I5beta
+LL2011_004.mt_genome	mfannot	orf	68948	70015	.	+	0	ID=cox1-I5beta ORF;Name=cox1-I5beta ORF;transl_table=3;gene=cox1-I5beta ORF
+LL2011_004.mt_genome	mfannot	exon	70059	70083	.	+	0	ID=cox1-E5;Name=cox1-E5;transl_table=3;gene=cox1-E5
+LL2011_004.mt_genome	mfannot	intron	70084	70984	.	+	0	ID=cox1-I5gamma;Name=cox1-I5gamma;transl_table=3;gene=cox1-I5gamma
+LL2011_004.mt_genome	mfannot	exon	70985	71457	.	+	0	ID=cox1-E6;Name=cox1-E6;transl_table=3;gene=cox1-E6
+LL2011_004.mt_genome	mfannot	gene	72876	73022	.	+	0	ID=ATP8;Name=ATP8;transl_table=3;gene=ATP8
